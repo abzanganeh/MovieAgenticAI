@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+flask_env/
+
+# Environment variables
+.env
+*.env
+
+# Data files
+*.csv
+*.pkl
+*.pickle
+movie_vectorstore/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
