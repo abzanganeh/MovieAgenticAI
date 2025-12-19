@@ -9,8 +9,17 @@ venv/
 flask_env/
 
 # Environment variables
+venv/
 .env
 *.env
+
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Ignore large data files
+local_data/
 
 # Data files
 *.csv
